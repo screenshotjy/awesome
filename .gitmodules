@@ -1,3 +1,6 @@
 [submodule "battery-widget"]
 	path = battery-widget
 	url = git@github.com:deficient/battery-widget.git
+[submodule "light"]
+	path = light
+	url = https://github.com/haikarainen/light.git
